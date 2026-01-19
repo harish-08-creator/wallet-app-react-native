@@ -1,2 +1,2 @@
 # wallet-app-react-native
-A scalable full-stack wallet app developed using React Native (Expo) and Node.js/Express, integrating Clerk for authentication, Upstash Redis for caching and API rate limiting, and NeonDB PostgreSQL for persistent storage. Backend services are deployed on Render to ensure global availability and reliability.
+A full-stack mobile wallet application built from scratch using React Native and Expo for the frontend, with a Node.js + Express backend. Features secure authentication via Clerk, rate limiting with Upstash Redis, and a PostgreSQL database powered by NeonDB. The backend is deployed on Render for scalable, globally accessible APIs.
